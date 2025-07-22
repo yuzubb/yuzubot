@@ -1,6 +1,6 @@
 # 雑談
 glitchサ終しましたね泣
-そこで、nyanko_aさんのbotを参考に、GitHubでコードを書き、renderにデプロイして、botを作ろうと思います
+そこで、nyanko_aさんのbotを参考に、GitHubでコードを書き、renderにデプロイして、CWbotを作ろうと思います
 ↑感服(拍手)
 ってことで地道にスマホで頑張ることにしました
 # 使い方
